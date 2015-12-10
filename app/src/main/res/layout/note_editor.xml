@@ -13,12 +13,13 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+    <!--android:background="@android:color/transparent"-->
 <view xmlns:android="http://schemas.android.com/apk/res/android"
     class="com.example.android.notepad.NoteEditor$LinedEditText"
     android:id="@+id/note"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="@android:color/transparent"
+    android:background="@android:color/green"
     android:padding="5dp"
     android:scrollbars="vertical"
     android:fadingEdge="vertical"
