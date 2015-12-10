@@ -2,7 +2,8 @@
 
     <!-- Base application theme. -->
     <!--<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
-    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+    <!--<style name="AppBaseTheme" parent="android:Theme.Holo.Light">-->
+    <style name="AppTheme" parent=""Theme.AppCompat.Light">
         <!-- Customize your theme here. -->
     </style>
 
