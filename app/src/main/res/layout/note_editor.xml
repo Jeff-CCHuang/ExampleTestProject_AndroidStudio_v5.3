@@ -20,7 +20,7 @@
     android:id="@+id/note"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="@android:color/holo_green_light"
+    android:background="@android:color/transparent"
     android:padding="5dp"
     android:scrollbars="vertical"
     android:fadingEdge="vertical"
