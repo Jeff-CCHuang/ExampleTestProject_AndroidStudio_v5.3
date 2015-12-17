@@ -23,7 +23,7 @@
     <string name="title_edit">Edit: \"%1$s\"</string>
     <string name="lable_notes_list">Notes</string>
     
-    <string name="menu_add">plus note</string>
+    <string name="menu_add">Add note</string>
     <string name="menu_save">Save</string>
     <string name="menu_delete">Delete</string>
     <string name="menu_open">Open</string>
